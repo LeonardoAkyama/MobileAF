@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">mobileAf</string>
+
+    <string-array name="categorias">
+        <item>Praia</item>
+        <item>Montanha</item>
+        <item>Cidade</item>
+        <item>Parque</item>
+        <item>Museu</item>
+    </string-array>
+
+</resources>
